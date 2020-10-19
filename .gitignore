@@ -1,0 +1,24 @@
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### Report files ###
+*.csv
+*.crc
+_SUCCESS
+
+### SBT Files ###
+bin/
+project/target
+project/project
+build/
+target
+~
+
+### Mac ###
+.DS_Store
+
+### general ###
+*.class
